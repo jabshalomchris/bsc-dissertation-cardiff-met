@@ -13,8 +13,8 @@ By integrating digital technology, geovisualization and interactivity, the platf
 Keywords: **_e-micro farm_**, **_geovisualization_**, **_agro-produce foraging_**, **_agritech_**, **_smart farming_**, **_grower collaboration_**
 
 ## 📘 Contents
-- `Dissertation.pdf`: Full thesis document (PDF)
 - `Abstract_SE_Dissertation_Judah_Abshalom.pdf`: Abstract document (PDF)
+- `Dissertation.pdf`: Full thesis document (PDF)
 
 ## 💻 Code Repository
 
